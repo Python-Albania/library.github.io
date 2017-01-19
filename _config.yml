@@ -10,8 +10,8 @@ url: "https://python-albania.github.io/library.github.io/"
 
 # Collections
 #collections:
-#  books:
-#    output: false
+  books:
+    output: true
 
 sass:
   style: compressed

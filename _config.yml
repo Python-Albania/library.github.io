@@ -1,10 +1,7 @@
 # Site settings
 title: Python Albania Library
 email: pythonalbania@gmail.com
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Learn more and explore our Python Albania's library. All the books have been used from the Python Albania founders during their university life. 
 baseurl: "/library.github.io"
 url: "https://python-albania.github.io/library.github.io/"
 

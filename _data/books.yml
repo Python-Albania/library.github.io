@@ -3,30 +3,30 @@
   image: 97.jpg
   link: https://drive.google.com/open?id=0B_Zw7PrfpTAdTmlERGpLRFpTbEU
 
-- title: The Revenant
-  author: Michael Punke
-  image: therevenant.jpg
-  link:
+- title: Assembly Language for x86 Processors 6e
+  author: Kip R. Irvine
+  image: asembly.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdcGJVT0UzbVdkQjQ
 
-- title: Wool
-  author: Hugh Howey
-  image: wool.jpg
-  link:
+- title: Simulating Data with SAS
+  author: Rick Wicklin
+  image: simulating.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdZE9GejQ5aDBKcG8
 
-- title: The Martian
-  author: Andy Weir
-  image: themartian.jpg
-  link:
+- title: Algorithms in a Nutshell
+  author: George T. Heineman,Gary Pollice & Stanley Selkow
+  image: nutshell.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdYlh6S0pQLVEzQTQ
 
-- title: The Man in the High Castle
-  author: Philip K Dick
-  image: themaninthehighcastle.jpg
-  link:
+- title: Data Structures & Algorithms in Python
+  author: Michael T. GoodRich ,Roberto Tammasia , Michael H.GoldWasser
+  image: dat.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdTUVWeExMMTJFakU
 
-- title: Deception Point
-  author: Dan Brown
-  image: deceptionpoint.jpg
-  link:
+- title: A Primer on Scientific Programming with Python
+  author: Hans Petter Langtangen
+  image: primer.jpg
+  link:  https://drive.google.com/open?id=0B_Zw7PrfpTAdMEdNT2piZ2pvb0E
 
 - title: Data Structures and Algorithms
   author: Rance D.

@@ -1,7 +1,7 @@
 # Site settings
 title: Python Albania Library
 email: pythonalbania@gmail.com
-description: Learn more and explore our Python Albania's library. All the books have been used from the Python Albania founders during their university life. 
+description: Learn more and explore our Python Albania's library. All the books have been used from the Python Albania founders during their university life.
 baseurl: "/library.github.io"
 url: "https://python-albania.github.io/library.github.io/"
 

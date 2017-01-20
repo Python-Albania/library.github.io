@@ -76,7 +76,31 @@
   link: https://drive.google.com/open?id=0B_Zw7PrfpTAdQ0hPMlBTSVIyUlE
 
 
-- title:
+- title: Event Processing in Action
+  author: OPHER ETZION ,PETER NIBLETT
+  image: event.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdUmhDSF9uZk9QOEU
+
+
+- title: Gray Hat Hacking
+  author: Shon Harris, Allen Harper, Chris Eagle, Jonathan Ness
+  image: gray.png
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdMmtMRHVzLVIyajQ
+
+
+- title: Grokking	Algorithms
   author:
-  image:
-  link:
+  image: grok.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAddWtTMTRna21Vd3M
+
+
+- title: HTTP The Definitive Guide
+  author: David Gourley and Brian Totty
+  image: http.jpg
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdVi1zRHBGOUczVEU
+
+
+- title: Introducing Regular Expressions
+  author: Michael Fitzgerald
+  image: reg.gif
+  link: https://drive.google.com/open?id=0B_Zw7PrfpTAdTHlETlZpZkVBWlU
